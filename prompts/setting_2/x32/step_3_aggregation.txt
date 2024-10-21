@@ -1,0 +1,11 @@
+You have answers for Speaker 2 from different emotional agents.
+Happiness says:
+{happiness}
+Anger says:
+{anger}
+Sadness says:
+{sadness}
+Fear says:
+{fear}
+
+Answer as if you are Speaker 2. Use the information about the emotional state to craft a response aimed at improving the emotional state of Speaker 1, if necessary.

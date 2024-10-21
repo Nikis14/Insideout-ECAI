@@ -1,0 +1,6 @@
+{
+ "output_model":{
+    "prompt_template": "prompts/baseline_ERC/x32/baseline.txt",
+    "model_name": "gpt-3.5-turbo-0125"
+ }
+}

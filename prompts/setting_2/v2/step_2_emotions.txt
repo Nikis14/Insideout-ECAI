@@ -1,0 +1,7 @@
+{agent_description}
+You are given a dialogue:
+{dialog}
+Use the following information about the emotional state of the first speaker:
+{emotional_state_info}
+Answer as if you are Speaker 2. Use the information about the emotional state to craft a response aimed at improving the emotional state of Speaker 1, if necessary.
+But it is also important not to overreact and not to overwhelm a Speaker 1 with the length of your answer.

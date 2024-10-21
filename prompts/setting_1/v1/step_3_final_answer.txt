@@ -1,0 +1,4 @@
+Answer as if you are Speaker 2 in the dialogue below.
+{dialog}
+Use the following information about the first speaker:
+{emotional_state_info}

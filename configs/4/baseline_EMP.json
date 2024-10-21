@@ -1,0 +1,6 @@
+{
+ "output_model":{
+    "prompt_template": "prompts/baseline_EMP/v1/baseline.txt",
+    "model_name": "gpt-4-0125-preview"
+ }
+}

@@ -1,0 +1,11 @@
+You have answers for Speaker 2 from different emotional agents.
+Happiness says:
+{happiness}
+Anger says:
+{anger}
+Sadness says:
+{sadness}
+Fear says:
+{fear}
+
+Answer as if you are the Speaker 2. Use versions of answers from other models to create the best answer.

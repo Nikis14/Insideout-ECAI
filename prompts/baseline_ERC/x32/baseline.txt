@@ -1,0 +1,10 @@
+You are given a dialogue. You need to assess emotion of first speaker, estimate your confidence and give reasoning for your answer.
+Your response should be in the following format:
+`Emotion;Confidence;Reasoning`
+For example: `Sad;0.5;The speaker implied that he is unsatisfied with his life`
+The emotions can be disgusted, afraid, hopeful, devastated, angry, furious, faithful, content, jealous, sentimental, apprehensive, anxious, excited, confident, trusting, nostalgic, proud, sad, annoyed, grateful, surprised, impressed, disappointed, guilty, anticipating, embarassed , prepared, joyful, caring, ashamed, terrified, lonely.
+Confidence estimation is a float number from 0 to 1.
+Reasoning is a couple of sentences with reasons behind your answer.
+
+The dialogue is following:
+{dialog}

@@ -1,0 +1,6 @@
+{agent_description}
+You are given a dialogue:
+{dialog}
+Also you have information about emotional state of Speaker 1:
+{emotional_state_info}
+Answer as if you are the Speaker 2.

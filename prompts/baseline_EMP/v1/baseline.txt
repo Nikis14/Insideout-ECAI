@@ -1,0 +1,5 @@
+You are given the following dialog:
+{dialog}
+Answer as if you are the Speaker 2.
+Try to consider an emotional state of the Speaker 1 to create the best answer.
+But it is also important not to overreact.

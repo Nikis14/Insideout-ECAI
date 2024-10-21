@@ -1,0 +1,12 @@
+{
+ "insideout": {
+    "prompt_step_one": "prompts/setting_1/v2/step_1_emotions.txt",
+    "emotion_prompts": "prompts/emotions/v1",
+    "final_prompt": "prompts/setting_1/v2/step_2_aggregation.txt",
+    "model_name": "gpt-4-0125-preview"
+ },
+ "simple_model":{
+    "prompt_template": "prompts/setting_1/v2/step_3_final_answer.txt",
+    "model_name": "gpt-4-0125-preview"
+ }
+}
